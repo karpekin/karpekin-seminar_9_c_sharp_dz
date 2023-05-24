@@ -1,0 +1,15 @@
+C:\Users\karpekin\YandexDisk\GeekBrains\I четверть\3.Знакомство с языками программирования\Семинары\Урок 9. Рекурсия\Seminar9_dz\bin\Debug\net6.0\Seminar9_dz.exe
+C:\Users\karpekin\YandexDisk\GeekBrains\I четверть\3.Знакомство с языками программирования\Семинары\Урок 9. Рекурсия\Seminar9_dz\bin\Debug\net6.0\Seminar9_dz.deps.json
+C:\Users\karpekin\YandexDisk\GeekBrains\I четверть\3.Знакомство с языками программирования\Семинары\Урок 9. Рекурсия\Seminar9_dz\bin\Debug\net6.0\Seminar9_dz.runtimeconfig.json
+C:\Users\karpekin\YandexDisk\GeekBrains\I четверть\3.Знакомство с языками программирования\Семинары\Урок 9. Рекурсия\Seminar9_dz\bin\Debug\net6.0\Seminar9_dz.dll
+C:\Users\karpekin\YandexDisk\GeekBrains\I четверть\3.Знакомство с языками программирования\Семинары\Урок 9. Рекурсия\Seminar9_dz\bin\Debug\net6.0\Seminar9_dz.pdb
+C:\Users\karpekin\YandexDisk\GeekBrains\I четверть\3.Знакомство с языками программирования\Семинары\Урок 9. Рекурсия\Seminar9_dz\obj\Debug\net6.0\Seminar9_dz.csproj.AssemblyReference.cache
+C:\Users\karpekin\YandexDisk\GeekBrains\I четверть\3.Знакомство с языками программирования\Семинары\Урок 9. Рекурсия\Seminar9_dz\obj\Debug\net6.0\Seminar9_dz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karpekin\YandexDisk\GeekBrains\I четверть\3.Знакомство с языками программирования\Семинары\Урок 9. Рекурсия\Seminar9_dz\obj\Debug\net6.0\Seminar9_dz.AssemblyInfoInputs.cache
+C:\Users\karpekin\YandexDisk\GeekBrains\I четверть\3.Знакомство с языками программирования\Семинары\Урок 9. Рекурсия\Seminar9_dz\obj\Debug\net6.0\Seminar9_dz.AssemblyInfo.cs
+C:\Users\karpekin\YandexDisk\GeekBrains\I четверть\3.Знакомство с языками программирования\Семинары\Урок 9. Рекурсия\Seminar9_dz\obj\Debug\net6.0\Seminar9_dz.csproj.CoreCompileInputs.cache
+C:\Users\karpekin\YandexDisk\GeekBrains\I четверть\3.Знакомство с языками программирования\Семинары\Урок 9. Рекурсия\Seminar9_dz\obj\Debug\net6.0\Seminar9_dz.dll
+C:\Users\karpekin\YandexDisk\GeekBrains\I четверть\3.Знакомство с языками программирования\Семинары\Урок 9. Рекурсия\Seminar9_dz\obj\Debug\net6.0\refint\Seminar9_dz.dll
+C:\Users\karpekin\YandexDisk\GeekBrains\I четверть\3.Знакомство с языками программирования\Семинары\Урок 9. Рекурсия\Seminar9_dz\obj\Debug\net6.0\Seminar9_dz.pdb
+C:\Users\karpekin\YandexDisk\GeekBrains\I четверть\3.Знакомство с языками программирования\Семинары\Урок 9. Рекурсия\Seminar9_dz\obj\Debug\net6.0\Seminar9_dz.genruntimeconfig.cache
+C:\Users\karpekin\YandexDisk\GeekBrains\I четверть\3.Знакомство с языками программирования\Семинары\Урок 9. Рекурсия\Seminar9_dz\obj\Debug\net6.0\ref\Seminar9_dz.dll
